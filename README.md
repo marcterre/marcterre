@@ -13,5 +13,5 @@
 - like to play videogames <img src="https://media.giphy.com/media/odGwoOqfTQrGxq4GCk/giphy.gif" alt="controller" width="40" height="40" align="center">
 - love watching movies <img src="https://media.giphy.com/media/Ph5Stkqjff8DrSL3WI/giphy.gif" alt="camera" width="50" height="60" align="center">
 
-<p align="right">for the right mood</p><a href="https://open.spotify.com/playlist/3EMmeF6F28zxhrVQGBMRUZ?si=d5bd3e3c3fcc479a"><img src="https://media.giphy.com/media/SUEWfq1o1r2ItmGD1I/giphy.gif" height="50" width="50" align="right"></a>
+<a href="https://open.spotify.com/playlist/3EMmeF6F28zxhrVQGBMRUZ?si=d5bd3e3c3fcc479a"><img src="https://media.giphy.com/media/SUEWfq1o1r2ItmGD1I/giphy.gif" height="50" width="50" align="right"></a>
          
