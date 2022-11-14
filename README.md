@@ -1,4 +1,4 @@
-# Check me out!
+# Hello! Now you can check me out
 
 <img src="https://media.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif" alt="controller_logo" width="2000" height="40" align="left">
 
