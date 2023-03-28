@@ -1,19 +1,13 @@
 # Hello! Here you can check out my Projects
 
-<img src="https://media.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif" alt="controller_logo" width="2000" height="40" align="left">
+<h2 align="center">Some Tools i have used and learned: </h2>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45" /></p>
 
-### in the past i:
-worked in pest controll <img src="https://media.giphy.com/media/PvvsxLMJGehg2DumcH/giphy.gif" alt="flying_bee" width="70" height="40" align="center"></ul>
-  </li>
+<br>
 
-### now i:
-become a web-develober <img src="https://media.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" alt="computer" width="70" height="40" align="center">
-
-### besides i:
-like to play videogames <img src="https://media.giphy.com/media/odGwoOqfTQrGxq4GCk/giphy.gif" alt="controller" width="40" height="40" align="center"><br>
-love watching movies <img src="https://media.giphy.com/media/Ph5Stkqjff8DrSL3WI/giphy.gif" alt="camera" width="50" height="60" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marcterre&theme=dark&show_icons=true" alt="stats" align=center/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcterre&theme=dark&layout=compact" alt="stats" align=center/>
- 
- 
+ <h2 align="center"> My Github Stats</h2>
+<div align="center">
+<a href="https://github.com/marcterre/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=marcterre&theme=radical&show_icons=true" alt="stats" align="center" height="200"/></a>
+<a href="https://github.com/marcterre/github-readme-stats">                                                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcterre&theme=radical" alt"stats" align="center" height="200"/></a>
+</div>
